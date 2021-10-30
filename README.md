@@ -1,4 +1,5 @@
-### Hello Friends! My name is Brighton...or "burntbiskett" depending on where you look :sweat_smile:
+# Hello Friends! 
+## My name is Brighton...or "burntbiskett" depending on where you look :sweat_smile:
 #
 
 ## I'm a Military Veteran, Developer, and Gamer!

@@ -4,10 +4,21 @@
 ## I'm a Military Veteran, Developer, and Gamer!
 - :iphone:I'm currently working on an app to help transitioning service members track the transition process.
 - :bulb:I'm constantly learning. The moment we stop learning, is the moment we become stale
-- :mortar_board:Finishing a 17-week course through Microsoft where I have learned so much about Cloud Application Development and Software Development in general.
+- :mortar_board:Finished a 17-week course through Microsoft where I learned so much about Cloud Application Development and Software Development in general.
 - :zap:Random Facts: I have been to all 50 states and 7 different countries, I love music (writing, playing, listening), I love photography :camera:!
+<br>
+<br>
+## Veteran's Day Game Jam Entry:
+### A procedurally generated roguelike fps created with a team of other developers for a game-jam hosted by Activision/Blizzard/King.
+<img src=./vdos.gif>
+<br>
+Coming Soon
+<br>
+<br>
+<br>
 
 ## My Game HatBoi:
+### A simple 2D platformer where I experimented with narrative and simple mechanics.
 [<img src=./hatboi.gif>
 <br>
 <a target="_blank" href=https://brighton-mcfarlane.github.io/HatBoi2DAdventure/>Play Now</a>][website1]
@@ -21,6 +32,7 @@
 <br>
 
 ## Follow Derpfella Games' progress on "The Wagie Life"
+### A narrative adventure where you choose what kind of life Wagie will have.
 [<img src=./wagie.gif>
 <br>
 <a target="_blank" href=https://brighton-mcfarlane.github.io/TheWagieLife/>Play Concept Now</a>][website2]

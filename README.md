@@ -13,7 +13,6 @@
 ## Veteran's Day Game Jam Entry:
 ### A procedurally generated roguelike fps created with a team of other developers for a game-jam hosted by Activision/Blizzard/King.
 <img src=./vdos.gif>
-<br>
 Coming Soon
 <br>
 <br>
